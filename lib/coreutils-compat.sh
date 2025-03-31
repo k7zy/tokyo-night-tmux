@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/opt/homebrew/bin/bash
 
 # Compatibility functions for macOS
 if [[ "$(uname)" == "Darwin" ]]; then

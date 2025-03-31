@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
-
+#!/opt/homebrew/bin/bash
 # Get network transmit data
 function get_bytes() {
   local interface="$1"
